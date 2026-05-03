@@ -64,7 +64,7 @@ Two hooks are included:
 | Event | Trigger | Effect |
 |---|---|---|
 | `SessionStart` | CC opens | Automatically injects memory-reading instructions |
-| `UserPromptSubmit` | `start session` / `开启对话` | Invokes `/session-start` skill on demand |
+| `UserPromptSubmit` | `start session` / `开始对话` | Invokes `/session-start` skill on demand |
 
 **Install hooks:** merge `hooks/hooks.json` into your `~/.claude/settings.json`.
 
