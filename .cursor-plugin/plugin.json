@@ -1,0 +1,15 @@
+{
+  "name": "session-start",
+  "displayName": "Session Start",
+  "description": "Session opening ritual for AI coding agents — read memory, surface last session's todos, give a status summary",
+  "version": "1.0.0",
+  "author": {
+    "name": "Zeshuo Chen",
+    "email": "zeshuo.chen@outlook.com"
+  },
+  "homepage": "https://github.com/zeshuochen/session-start",
+  "repository": "https://github.com/zeshuochen/session-start",
+  "license": "MIT",
+  "keywords": ["skills", "memory", "session", "workflow"],
+  "skills": "./skills/"
+}
