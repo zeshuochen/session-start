@@ -12,7 +12,7 @@ def main():
     msg = d.get('message', '') or ''
     msg_lower = msg.lower()
 
-    if 'start session' in msg_lower or '开启对话' in msg:
+    if 'start session' in msg_lower or '开始对话' in msg:
         sm = (
             '[Session-Start Triggered]\n\n'
             '<EXTREMELY_IMPORTANT>\n'
